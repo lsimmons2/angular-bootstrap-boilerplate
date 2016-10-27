@@ -1,0 +1,26 @@
+/*======Nav======*/
+
+.navbar-brand > img {
+
+}
+
+
+.navbar-default .navbar-nav > li > a {
+
+}
+
+
+.navbar-default .navbar-nav > li > a:active {
+
+}
+
+
+.navbar-default .navbar-nav > li > a:hover {
+
+}
+
+
+.navbar-default .navbar-nav > li > a.selected {
+  color: black;
+  font-weight: bold;
+}

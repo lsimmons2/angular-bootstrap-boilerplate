@@ -1,0 +1,19 @@
+{
+  "name": "angular-boilerplate",
+  "version": "1.0.0",
+  "description": "Simplest angular/bootstrap boilerplate for my current front end needs, served by node/express",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "angular": "^1.5.8",
+    "angular-route": "^1.5.8",
+    "bootstrap": "^3.3.7",
+    "jquery": "^3.1.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  }
+}
